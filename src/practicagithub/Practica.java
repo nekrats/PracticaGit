@@ -18,6 +18,6 @@ public static void salir(){
     
 }
 public static void fantasma(){
-    
+    System.out.println("¡Buu!");
 }
 }
