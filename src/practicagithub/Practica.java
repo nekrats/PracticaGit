@@ -11,4 +11,7 @@ public class Practica {
 public static void comprar (){
     
 }
+public static void vender (){
+    
+}
 }
