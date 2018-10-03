@@ -14,4 +14,7 @@ public static void comprar (){
 public static void vender (){
     
 }
+public static void salir(){
+    
+}
 }
