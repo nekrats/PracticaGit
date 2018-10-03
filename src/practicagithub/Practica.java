@@ -17,4 +17,7 @@ public static void vender (){
 public static void salir(){
     
 }
+public static void fantasma(){
+    
+}
 }
